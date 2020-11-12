@@ -38,7 +38,7 @@ dependencies:
   pattern_formatter: ^1.0.2
   image_picker: ^0.6.7+7
   flutter_linkify: ^4.0.2
-  url_launcher:
+  url_launcher: 
 
 dev_dependencies:
   flutter_test:
